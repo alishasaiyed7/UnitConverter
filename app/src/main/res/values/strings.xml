@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="welcome">Welcome</string>
+    <string name="basic">Basic</string>
+    <string name="living">Liivng</string>
+    <string name="science">Science</string>
+    <string name="other">Other</string>
+    <string name="Area">Area</string>
+    <string name="Length">Length</string>
+    <string name="Mass">Mass</string>
+    <string name="Time">Time</string>
+
+    //Area strings
+    <string name="To">To</string>
+    <string name="enter_the_num_you_want_to_convert">Enter The Number you want to convert</string>
+    <string name="convert">Convert</string>
+    <string name="AreaTxtoutput">Output</string>
+    <string name="Areafrom">From</string>
+
+
+    <string-array name="AreaList">
+        <item>"Square Meter"</item>
+        <item>"Square KiloMeter"</item>
+        <item>"Meter"</item>
+        <item>"CentiMeter"</item>
+    </string-array>
+
+
+</resources>
